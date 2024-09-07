@@ -16,6 +16,7 @@
 # Visual Studio / MonoDevelop generated files
 .vscode/
 .vs/
+
 *.csproj
 *.unityproj
 *.sln
