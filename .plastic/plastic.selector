@@ -1,0 +1,4 @@
+repository "JJK2@inginer2004@cloud"
+  path "/"
+    br "/main"
+    co "/main"
